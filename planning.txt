@@ -1,1 +1,4 @@
-
+in the planning 
+we are going to meet the client 
+and we are collecting his requirements .
+According to his requirements we are devloping the web application
